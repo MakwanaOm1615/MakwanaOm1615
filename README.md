@@ -1,55 +1,52 @@
-
-<h1 align="center">Hi 👋, I'm Om Makwana</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Stack Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hey there 👋, I'm Om Makwana</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Java & C++ Programmer | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/MakwanaOm1615">
-    <img src="https://komarev.com/ghpvc/?username=MakwanaOm1615&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MakwanaOm1615&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/makwana-om-3b12b3288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Makwana-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Makwana-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-- 🌱 I’m learning: **MERN Stack | DSA ( C++ ) | Data Science Concepts | AI/ML Basics **
-- 💬 Ask me about: **Full Stack Development, Java, C, C++, MongoDB, Node.js, React.js, Express.js, PHP, Python**
-- 💼 Open to Internships, Collaborations & Open Source Contributions.
-- 📫 Reach me at: **makwanaom1511@gmail.com**
-- ⚡ Fun fact: *I believe great tech solutions come from simple ideas 💡*
-- 🌐 Portfolio Website (coming soon...)
+### 👨‍💻 About Me
+- 🔭 Currently working on: **MERN Stack Projects & Java Desktop Applications**
+- 🌱 Learning: **MERN Stack | DSA (C++) | AI/ML Concepts | Data Science**
+- 💬 Ask me about: **Full Stack Development | Java | C/C++ | PHP | Python | MySQL | MongoDB | Node.js | React.js | Express.js**
+- 💼 Open to: **Internships, Freelance Projects & Open Source Collaborations**
+- 📫 How to reach me: **makwanaom1511@gmail.com**
+- 🌐 **Portfolio Website:** *Coming Soon...*
+- ⚡ Fun Fact: *Clean Code = Happy Life 🤓*
 
 ---
 
-<h3>🛠️ Tech Stack & Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,c,c++,php,python,mysql,git,github,figma,vscode" />
-</p>
-
----
-
-<h3>📊 GitHub Stats:</h3>
+### 🚀 Tech Stack & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MakwanaOm1615&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakwanaOm1615&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaOm1615&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,c++,php,python,mysql,git,github,figma,vscode" />
 </p>
 
 ---
 
-<h3>🤝 Connect with me:</h3>
-<p align="left">
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MakwanaOm1615&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakwanaOm1615&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaOm1615&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+<p align="center">
   <a href="https://www.linkedin.com/in/om-makwana-490aa7239/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Om%20Makwana-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Makwana-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:makwanaom1511@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-makwanaom1511%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-makwanaom1511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
