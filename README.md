@@ -14,7 +14,7 @@
 ---
 
 - 🔭 I’m currently working on: **MERN Recipe App**, Java Swing Based Applications
-- 🌱 I’m learning: **MERN Stack | DSA ( c++ ) | Data Science Concepts | AI/ML Basics **
+- 🌱 I’m learning: **MERN Stack | DSA ( C++ ) | Data Science Concepts | AI/ML Basics **
 - 💬 Ask me about: **Full Stack Development, Java, C, C++, MongoDB, Node.js, React.js, Express.js, PHP, Python**
 - 💼 Open to Internships, Collaborations & Open Source Contributions.
 - 📫 Reach me at: **makwanaom1511@gmail.com**
