@@ -41,10 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakwanaOm1615&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaOm1615&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
