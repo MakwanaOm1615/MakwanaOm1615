@@ -36,17 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MakwanaOm1615&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakwanaOm1615&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/om-makwana-490aa7239" target="_blank">
